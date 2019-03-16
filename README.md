@@ -1,6 +1,6 @@
 # FriendFinder
 
-This app allows you to fill out a questionaire and be matched with someone with similar preferences. For the purpose of the homework I have filled the `friends.js` with random celebrities...feel free to load the list with people you may know.
+This app allows you to fill out a questionaire and be matched with someone with similar preferences. For the purpose of the homework I have filled the `friends.js` with the cast from Friends...feel free to load the list with people you know.
 
 
 ## Overview
